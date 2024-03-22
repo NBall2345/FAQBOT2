@@ -1,0 +1,31 @@
+(dol(.*)?)(.*)(gestat(.*)? per(.*)?|pregnancy period|period of preg(.*)?|preg(.*)?)(.*)?
+(how\s)?(many\s)?(species\s|diff(.*)?\s)(kinds\s|spec(.*)?)?(.*)(dol(.*)?)
+(what\s)?(.*)(name\s|na(.*)?\s|call\s)(.*)(young\s|baby\s)(dol(.*)?)
+(dol(.*)?)(.*)?(use|utilize)?(echolocation|ech(.*)?|abil(.*))
+(dol(.*)?)(.*)(sle(.*)?|rest)(.*)(both\s)(sides|hemis(.*)?)?(.*)(brai(.*)?)
+(average\s)?(lifes(.*)?)(.*)(dol(.*)?)
+(gro(.*)|collect(.*)|hur(.*)|alot)(.*)(alot|bunch|great)?(.*)(dol(.*)?)
+(dol(.*))(.*)(fast(.*))
+(function|purpose|reason)?(.*)(do(.*)in)(.*)(fin)
+(dol(.*)?\s)(clas(.*)ed|con(.*)red|part(.*))?(mam(.*)|f(.*)sh)(.*)?(or\s)?(fish|mam(.*))?
+(dol(.*))(talk|com(.*)cate)(.*)?(the(.*)es|eac(.*)her)
+(function|purpose)(.*)(dol(.*))(\sbl(.*)le)
+(dol(.*))(\srec(.*)ze|\sidentify)(.*)(themselves|th(.*)own|itself)(\sref(.*)ons)?
+(dol(.*))(.*)?(\seat|\sdiet)
+(dol(.*))(\sprotect|\sdefend)(\sthe(.*)ves)?(\sagainst|\sfrom)?(\spred(.*))?
+(function|role|purpose)?(.*)(dol(.*))(.*)(melon)
+(social\s)?(struc(.*)\s|arran(.*)\s)(.*)(dol(.*))
+(dol(.*))(.*)(recog(.*)\s|rem(.*)er\s)(.*)(individual\s|different)?(hu(.*)|people)
+(dol(.*))(.*)?(\splay|\sengage|\shave fun)
+(dol(.*))(.*)?(\sen(.*)ed|risk|become)(.*)?(extinct)?
+(when|what time)(.*)(dol(.*))(\ssleep)
+(dol(.*)\s)(.*)?(like|love|app(.*)te|frien(.*))(.*)?(hum(.*)s|people|person)?
+(long|length|duration)(.*)(dol(.*)\s)(live|life)(.*)?
+(fast(.*))(.*)?(dol(.*))
+(size|big|average|weight)(.*)(dol(.*)|(.*)hin)(.*)
+(dol(.*)|(.*)hin[s|'s]?)(.*)?(large|big|average|heavy|fat)(.*)
+(ea(.*)|ki(.*))(.*)?(dol(.*))
+(dol(.*))(.*)?(pre(.*)rs)
+(te(.*)h|tell|exp(.*)n|what)(.*)(dol(.*))
+(dol(.*))(.*)?(hunt|sti(.*)|travel)(.*)?(gro(.*)|collect(.*)|hur(.*)|pods|packs)
+(where|find)(.*)?(dol(.*))(.*)(live|stay|area)

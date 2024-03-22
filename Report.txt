@@ -1,0 +1,66 @@
+I Nathan Ball, 000881332 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
+PHASE 1
+
+QUESTIONS 20 TOTAL WRITTEN OUT
+What is the gestation period of a dolphin?|What is the period of pregnancy for a dolphin?    1
+How many species of dolphins are there?|How many different kinds of dolphins exist?          2
+What is the name of a baby dolphin?|What do we call a young dolphin?                         3
+What is echolocation, and how do dolphins use it?|Define echolocation and explain how dolphins utilize it. 4
+Can dolphins sleep with both hemispheres of their brains at the same time?|Do dolphins have the ability to sleep with both sides of their brains simultaneously? 5
+What is the average lifespan of a dolphin in the wild?|On average, how long does a dolphin live in its natural habitat? 6
+What is a group of dolphins called?|What is the collective name for a bunch of dolphins? 7
+What is the fastest dolphin species?|Which type of dolphin is the fastest? 8
+What is the function of a dolphin's dorsal fin?|What purpose does a dolphin's back fin serve? 9
+Are dolphins considered to be mammals or fish?|Are dolphins classified as mammals or fish? 10
+How do dolphins communicate with each other?|How do dolphins communicate among themselves? 11
+What is the function of a dolphin's blowhole?|What is the function of a dolphin's blowhole? 12
+Can dolphins recognize themselves in a mirror?|Can dolphins identify their own reflections in a mirror? 13
+What is the diet of a dolphin?|What is typically included in a dolphin's diet? 14
+How do dolphins protect themselves from predators?|How do dolphins defend themselves against predators? 15
+What is the function of a dolphin's melon?|What role does a dolphin's melon serve? 16
+What is the social structure of a dolphin pod?|Describe the social arrangement within a dolphin pod.  17
+Can dolphins recognize individual humans?|Are dolphins capable of recognizing individual humans? 18
+How do dolphins play?|What recreational activities do dolphins engage in? 19
+Are dolphins endangered species?|Are dolphins at risk of becoming extinct? 20
+
+ANSWERS 31 TOTAL WRITTEN OUT (ADDITIONAL 11 FROM REGEX) (ASK ANYTHING ABOUT A DOLPHIN AND YOU WILL FIND THE REGEX ANSWERS EASILY)
+The gestation period of a dolphin ranges from 9 to 17 months, depending on the species. 1
+There are approximately 40 species of dolphins, including the well-known bottlenose dolphin. 2
+A baby dolphin is called a calf. 3
+Echolocation is a biological sonar system used by dolphins to navigate and locate prey underwater. Dolphins emit high-frequency clicks and listen to the echoes to interpret the surrounding environment. 4
+Yes, dolphins can sleep with one hemisphere of their brain at a time, allowing them to maintain awareness and surface to breathe while resting. 5
+The average lifespan of a dolphin in the wild varies by species but generally ranges from 25 to 50 years. 6
+A group of dolphins is called a pod. 7
+The common dolphin (Delphinus delphis) holds the title of the fastest dolphin species, capable of reaching speeds up to 60 km/h (37 mph). 8
+A dolphin's dorsal fin helps with stability and balance as it swims through the water. 9 
+Dolphins are mammals, not fish. They belong to the order Cetacea, which also includes whales and porpoises. 10
+Dolphins communicate through a variety of vocalizations, including clicks, whistles, and body language. Each dolphin has a unique signature whistle that it uses to identify itself to others. 11
+A dolphin's blowhole is used for breathing. It is located on top of their heads and allows them to take quick breaths at the water's surface without fully surfacing. 12
+Yes, dolphins have demonstrated self-awareness in mirror tests, indicating their ability to recognize themselves in a mirror. 13
+Dolphins are carnivores and primarily feed on fish and squid. The specific diet varies depending on the species and habitat. 14
+Dolphins use their speed, agility, and intelligence to evade predators. They also live in social groups that provide safety in numbers. 15
+A dolphin's melon is a fatty, bulbous structure on its forehead that helps with echolocation and focusing sound waves. 16
+Dolphin pods have complex social structures and hierarchies, with individuals forming close bonds and cooperating in hunting, defense, and caring for calves. 17
+Dolphins have demonstrated the ability to recognize individual humans by sight and sound, especially those with whom they have had frequent interactions. 18
+Dolphins engage in play behavior such as surfing waves, leaping out of the water, and playing with objects like seaweed or bubbles. 19
+Some species of dolphins are considered endangered or threatened due to habitat loss, pollution, fishing nets, and other human activities. Conservation efforts are underway to protect these species and their habitats. 20
+Dolphins Primarily sleep at night but only for a couple hours at a time 21
+Dolphins have the intelligence and empathy to be potentially friendly to humans, unlike other animals, and more likely than other animals to do so. But it's not a 'natural' reaction. 22
+Dolphins live an average of 10-20 years in the wild, though they are thought to live much longer in captivity. 23
+The common dolphin (Delphinus delphis) holds the title of the fastest dolphin species, capable of reaching speeds up to 60 km/h (37 mph). 24
+The average adult length in the wild is 2.2 to 2.7 m (7.2 to 8.9 ft.). Coastal bottlenose dolphins measured off Sarasota, Florida average 2.5 to 2.7 m (8.2 to 8.9 ft.) and weigh between 190 and 260 kg (419 to 573 lbs.). 25
+The average adult length in the wild is 2.2 to 2.7 m (7.2 to 8.9 ft.). Coastal bottlenose dolphins measured off Sarasota, Florida average 2.5 to 2.7 m (8.2 to 8.9 ft.) and weigh between 190 and 260 kg (419 to 573 lbs.). 26
+These six animals kill and eat dolphins: Orca, tiger shark, dusky shark, great white shark, bull shark, and humans.27
+These six animals kill and eat dolphins: Orca, tiger shark, dusky shark, great white shark, bull shark, and humans. 28
+A dolphin is an aquatic mammal within the infraorder Cetacea. Dolphin species belong to the families Delphinidae, Platanist idae, Iniidae, Pontoporiidae, and possibly extinct Lipotidae. There are 40 extant species named as dolphins 29
+Bottlenose dolphins swim and hunt together in groups, called pods. They are social animals who work together to catch their prey, usually fishes. They will encircle a school of fish, herd them into a tight ball, then take turns rushing through the school to feed. Bottlenose dolphins also feed on squid and shrimp. 30
+Dolphins live in the world's seas and oceans and in some rivers too. Some dolphin species prefer to live in coastal areas, others like shallow water which are located further out to sea. Finally, there are some species that travel the high seas far from land. 31
+
+For the fuzzy recocgnition, Please feel free to ask it anything about dolphins, I promise ive covered as much as possible making it so it works very well in my opinon
+When connecting and finding best answers i had the bot out put the matching questions (C. of question 6) but the regex has been made assure it wont have problems. 
+---------------------------------------------------------------------------------------
+PHASE 2
+For Phase 2 of the FAQ i chose to do named entity and noun chunks, covering everything from COMMANDS, QUESTIONS AND GREETINGS now all are needs for a bot like this but i think the logic plays more of a role in the command section, where if you tell the robot a command like "Make me a coffee", It will respond with your verb, det and noun to respond as humanly as possible, and it takes other percautions assuming you didnt use all 3 (verb, det and noun). it can also greet the user. 
+---------------------------------------------------------------------------------------
+PHASE 3 (I beleive this is the way to link it) (If it helps i havent changed anything about the bot, but this link is new just to make sure)
+THE LINK: https://discord.com/api/oauth2/authorize?client_id=1201388908185911316&permissions=2048&scope=bot
